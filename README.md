@@ -1,2 +1,2 @@
 # PersonalProjects
-Solving own ideas for projects at free time
+Working with ideas of collaborated team to work on in house projects
