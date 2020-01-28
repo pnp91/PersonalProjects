@@ -1,2 +1,2 @@
 # PersonalProjects
-Working with ideas of collaborated team to work on in house projects
+Working with ideas for In-house projects as a collaborated duo team 
